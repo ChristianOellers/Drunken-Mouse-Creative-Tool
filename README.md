@@ -13,20 +13,20 @@
 
 ## About
 
-Randomly shake mouse cursor in different, freely configurable settings. This Windows tool is intended for creative purposes, e.g. drawing software or playing games (with a higher difficulty ;).
+Randomly shake mouse cursor in different, freely configurable settings. This tool is intended for creative purposes, e.g. drawing software or playing games ... with a higher difficulty ;)
 
 
 ### Why?
 
-- Be able to do things you wouldn't try otherwise
-- Get an extra level of challenge and difficulty when playing games
+- Be able to do things you wouldn't try otherwise.
+- Get an extra level of challenge and difficulty when playing games.
 
 
 ### Source code
 
-The C++ source code has been added for your convenience and inspiration. This program has been developed **1998** in some Borland C++ IDE/compiler. I forgot which one, and also don't have the full files anymore.
+The C++ source code has been added for your convenience and inspiration. This program has been developed **1998** in some Borland C++ IDE/compiler. I forgot which one, and also don't have the full files any more.
 
-The code will probably not compile anymore. However, you might find inspiration for your own ideas and laugh about the coding style 😜
+The code will probably not compile. However, you might find inspiration for your own ideas and laugh about the coding style 😜
 
 <details>
 <summary>(No please, no, don't look this never happened)</summary>
@@ -57,7 +57,7 @@ Trying to draw crossing, straight lines with higher randomness settings.
 
 ### Settings
 
-This 'cheat sheet' shows different application settings. The goal was to draw a straight vertical line as best as possible. You can see that the default settings are pretty decent, while others make it really hard to hit anything on your screen.
+This 'cheat sheet' shows different application settings. The goal was to draw a straight vertical line as good as possible. You can see that the default settings are pretty decent, while others make it really hard to hit anything on your screen.
 
 ![Example](images/settings-cheat-sheet.png)
 
@@ -74,10 +74,10 @@ Before you download and test this, make sure to get familiar with the notes desc
 
 This software is intended for use on private computers for creative purposes and gaming only.
 
-- **Do not** start when other softwares are still open on your PC (e.g. a browser with open tabs, email tools, any software you might be using that stores and handles important data)
-- **Only** use if you know how to switch between Windows and close the app, in case you loose control. Certain settings make it nearly impossible to click accurately and you must use your keyboard instead.
+- **Do not** start when other programs are still open on your PC (e.g. a browser with open tabs, email tools, any software you might be using that stores and handles important data)
+- **Only** use if you know how to switch between Windows and close the app, in case you lose control. Certain settings make it nearly impossible to click accurately and you must use your keyboard instead.
 - Make sure to know the keyboard use for this tool and the software you are going to use it with (e.g. your drawing programs or a game). You might need to switch from your current software to the tool and end it.
-- It is intended for hardware **Mouses** only. Any other hdardware – like  controllers – might not work properly or lead to unknown, potentially unstable behaviour.
+- It is intended for hardware **Mouses** only. Any other hardware – like controllers – might not work properly or lead to unknown, potentially unstable behaviour.
 
 ### Preparations
 
@@ -96,7 +96,7 @@ Just download and run the EXE file.
 
 ### Use
 
-Once started, just move your mouse as usual. For use with graphic programs, good results can be achieved if you keep the mouse at one place – Just don't move and let the software do its magic (e.g. paint something cloudy or textures).
+Once started, just move your mouse as usual. For use with graphic programs, good results can be achieved if you keep the mouse at one place – Just don't move and let the software do it's magic (e.g. paint something cloudy or textures).
 
 
 #### Compatibility
