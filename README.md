@@ -74,10 +74,10 @@ Before you download and test this, make sure to get familiar with the notes desc
 
 This software is intended for use on private computers for creative purposes and gaming only.
 
-- **Do not** start when other softwares are still open on your PC (e.g. a browser with open tabs, email tools, any software you might be using that stores and handles important data)
-- **Only** use if you know how to switch between Windows and close the app, in case you loose control. Certain settings make it nearly impossible to click accurately and you must use your keyboard instead.
+- **Do not** start when other programs are still open on your PC (e.g. a browser with open tabs, email tools, any software you might be using that stores and handles important data)
+- **Only** use if you know how to switch between Windows and close the app, in case you lose control. Certain settings make it nearly impossible to click accurately and you must use your keyboard instead.
 - Make sure to know the keyboard use for this tool and the software you are going to use it with (e.g. your drawing programs or a game). You might need to switch from your current software to the tool and end it.
-- It is intended for hardware **Mouses** only. Any other hdardware – like  controllers – might not work properly or lead to unknown, potentially unstable behaviour.
+- It is intended for hardware **Mouses** only. Any other hardware – like controllers – might not work properly or lead to unknown, potentially unstable behaviour.
 
 ### Preparations
 
@@ -96,7 +96,7 @@ Just download and run the EXE file.
 
 ### Use
 
-Once started, just move your mouse as usual. For use with graphic programs, good results can be achieved if you keep the mouse at one place – Just don't move and let the software do its magic (e.g. paint something cloudy or textures).
+Once started, just move your mouse as usual. For use with graphic programs, good results can be achieved if you keep the mouse at one place – Just don't move and let the software do it's magic (e.g. paint something cloudy or textures).
 
 
 #### Compatibility
