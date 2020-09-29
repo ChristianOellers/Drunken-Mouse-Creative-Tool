@@ -7,14 +7,38 @@
 - [How to use](#how-to-use)
 
 
+<br>
+
+---
+
 ## About
 
 Randomly shake mouse cursor in different, freely configurable settings. This Windows tool is intended for creative purposes, e.g. drawing software or playing games (with a higher difficulty ;).
 
 
-<br><br>
+### Why?
 
----
+- Be able to do things you wouldn't try otherwise
+- Get an extra level of challenge and difficulty when playing games
+
+
+### Source code
+
+The C++ source code has been added for your convenience and inspiration. This program has been developed **1998** in some Borland C++ IDE/compiler. I forgot which one, and also don't have the full files anymore.
+
+The code will probably not compile anymore. However, you might find inspiration for your own ideas and laugh about the coding style 😜
+
+<details>
+<summary>(No please, no, don't look this never happened)</summary>
+
+Behold, the *if-goto* statement:
+
+![Example](images/if-goto-statement.png)
+
+</details>
+
+
+<br><br>
 
 ## Examples
 
@@ -22,19 +46,23 @@ Showcase of what you can do with it in graphic software. The shown examples have
 
 ### Creative painting
 
+The mouse stayed pressed at a certain point for a longer time. The randomness settings were relatively decent here.
+
 ![Example](images/example-drawing-cloud-smoke.png)
+
+Trying to draw crossing, straight lines with higher randomness settings.
 
 ![Example](images/example-drawing-fuzzy-line-art.png)
 
 
 ### Settings
 
+This 'cheat sheet' shows different application settings. The goal was to draw a straight vertical line as best as possible. You can see that the default settings are pretty decent, while others make it really hard to hit anything on your screen.
+
 ![Example](images/settings-cheat-sheet.png)
 
 
 <br><br>
-
----
 
 ## How to use
 
@@ -68,7 +96,7 @@ Just download and run the EXE file.
 
 ### Use
 
-Once
+Once started, just move your mouse as usual. For use with graphic programs, good results can be achieved if you keep the mouse at one place – Just don't move and let the software do its magic (e.g. paint something cloudy or textures).
 
 
 #### Compatibility
