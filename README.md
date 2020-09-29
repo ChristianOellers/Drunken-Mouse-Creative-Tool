@@ -13,20 +13,20 @@
 
 ## About
 
-Randomly shake mouse cursor in different, freely configurable settings. This Windows tool is intended for creative purposes, e.g. drawing software or playing games (with a higher difficulty ;).
+Randomly shake mouse cursor in different, freely configurable settings. This tool is intended for creative purposes, e.g. drawing software or playing games ... with a higher difficulty ;)
 
 
 ### Why?
 
-- Be able to do things you wouldn't try otherwise
-- Get an extra level of challenge and difficulty when playing games
+- Be able to do things you wouldn't try otherwise.
+- Get an extra level of challenge and difficulty when playing games.
 
 
 ### Source code
 
-The C++ source code has been added for your convenience and inspiration. This program has been developed **1998** in some Borland C++ IDE/compiler. I forgot which one, and also don't have the full files anymore.
+The C++ source code has been added for your convenience and inspiration. This program has been developed **1998** in some Borland C++ IDE/compiler. I forgot which one, and also don't have the full files any more.
 
-The code will probably not compile anymore. However, you might find inspiration for your own ideas and laugh about the coding style 😜
+The code will probably not compile. However, you might find inspiration for your own ideas and laugh about the coding style 😜
 
 <details>
 <summary>(No please, no, don't look this never happened)</summary>
@@ -57,7 +57,7 @@ Trying to draw crossing, straight lines with higher randomness settings.
 
 ### Settings
 
-This 'cheat sheet' shows different application settings. The goal was to draw a straight vertical line as best as possible. You can see that the default settings are pretty decent, while others make it really hard to hit anything on your screen.
+This 'cheat sheet' shows different application settings. The goal was to draw a straight vertical line as good as possible. You can see that the default settings are pretty decent, while others make it really hard to hit anything on your screen.
 
 ![Example](images/settings-cheat-sheet.png)
 
