@@ -1,4 +1,4 @@
-![Example](images/teaser.png)
+![Drunken Mouse](teaser.png)
 
 # Creative tool
 
