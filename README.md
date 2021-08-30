@@ -1,6 +1,8 @@
 ![Drunken Mouse](teaser.png)
 
-# Creative tool
+# Drunken Mouse
+
+Creative tool
 
 - [About](#about)
 - [Examples](#examples)
@@ -124,4 +126,3 @@ Navigate between windows and how to stop this tool. Some of them might not work 
 <br>
 
 **Commands with 2 keys:** The first key needs to stay pressed, the second will run the desired action.
-
